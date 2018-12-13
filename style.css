@@ -1,0 +1,16 @@
+.wrapper{
+	background-image: url(img/Head1.jpg);
+	height: 688px;
+	width: 1200px;
+	background-position: center;
+	
+}
+.header-nav{
+	list-style-type:none;
+}
+a {
+	text-decoration:none;
+}
+h1{
+	text-orientation: upright;
+}
